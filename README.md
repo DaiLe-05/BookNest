@@ -1,8 +1,6 @@
-[![UIT Logo](https://i.imgur.com/WmMnSRt.png)](https://www.uit.edu.vn/ "Trường Đại học Công nghệ Thông tin")
+# BookNest - Website bán sách trực tuyến
 
-# **Nhập môn Công nghệ Phần mềm**
-
-## BookNest - Website bán sách trực tuyến
+BookNest là dự án cá nhân do **Lê Quốc Đại** phát triển nhằm xây dựng một website bán sách fullstack hoàn chỉnh. Dự án tập trung vào các chức năng thường gặp trong một hệ thống thương mại điện tử như xem sản phẩm, tìm kiếm, lọc, giỏ hàng, đặt hàng, quản trị dữ liệu, phân quyền và xuất hóa đơn PDF.
 
 [![React](https://img.shields.io/badge/Frontend-React%2018-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Build-Vite%206-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
@@ -14,27 +12,27 @@
 
 ---
 
-## Thông tin đồ án
+## Thông tin dự án
 
 | Mục | Nội dung |
 | --- | --- |
-| **Tên đồ án** | BookNest - Website bán sách trực tuyến |
-| **Môn học** | Nhập môn Công nghệ Phần mềm |
-| **Trường** | Đại học Công nghệ Thông tin - ĐHQG TP.HCM |
-| **Năm học** | 2025 - 2026 |
+| **Tên dự án** | BookNest - Website bán sách trực tuyến |
+| **Tác giả** | Lê Quốc Đại |
+| **Hình thức** | Dự án cá nhân |
+| **Mục đích** | Học tập, rèn luyện kỹ năng fullstack và bổ sung vào CV |
 | **Loại dự án** | Website thương mại điện tử fullstack |
 
 ---
 
-## Thành viên thực hiện
+## Tác giả
 
-| Họ và tên | MSSV | Vai trò |
-| --- | --- | --- |
-| Lê Quốc Đại | 23520214 | Fullstack Developer |
+| Họ và tên | Vai trò |
+| --- | --- |
+| Lê Quốc Đại | Fullstack Developer |
 
 ---
 
-## Mục tiêu đồ án
+## Mục tiêu dự án
 
 BookNest được xây dựng nhằm mô phỏng một hệ thống bán sách trực tuyến hoàn chỉnh theo mô hình fullstack. Dự án tập trung vào việc xây dựng đầy đủ các chức năng phổ biến của một website thương mại điện tử, đồng thời áp dụng các công nghệ hiện đại ở cả frontend, backend và database.
 
@@ -43,7 +41,7 @@ Các mục tiêu chính:
 - Xây dựng giao diện website bán sách hiện đại, dễ sử dụng và responsive.
 - Phát triển REST API bằng Node.js và Express.js.
 - Quản lý cơ sở dữ liệu MySQL thông qua Prisma ORM.
-- Sử dụng XAMPP/phpMyAdmin để phù hợp với môi trường học tập.
+- Sử dụng XAMPP/phpMyAdmin để dễ cài đặt và chạy database trên máy cá nhân.
 - Tích hợp đăng ký, đăng nhập, xác thực JWT và mã hóa mật khẩu bằng Bcrypt.
 - Phân quyền rõ ràng giữa người dùng và admin.
 - Hỗ trợ tìm kiếm, lọc, sắp xếp và phân trang danh sách sách.
@@ -442,4 +440,4 @@ Mọi thắc mắc hoặc góp ý có thể trao đổi trực tiếp với tác
 
 ---
 
-**© 2025 - 2026 - UIT - Nhập môn Công nghệ Phần mềm - ĐHQG TP.HCM**
+**© 2025 - 2026 - BookNest - Personal Fullstack Project by Lê Quốc Đại**
